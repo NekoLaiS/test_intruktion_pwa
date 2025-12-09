@@ -51,19 +51,19 @@
       padding: 0;
       width: 100%;
       height: 100%;
-      overflow: hidden;
+      overflow: auto;
+      position: relative;
+    }
+    
+    /* Flutter container */
+    body > * {
+      width: 100%;
+      height: 100%;
     }
     
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
-    }
-    
-    /* Поддержка изменения размера окна PWA */
-    @media (display-mode: standalone) {
-      body {
-        overflow: auto;
-      }
     }
   </style>
   
