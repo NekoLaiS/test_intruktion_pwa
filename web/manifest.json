@@ -1,7 +1,7 @@
 {
     "name": "Инструктажи - Управление организациями",
     "short_name": "Инструктажи",
-    "start_url": "/test_intruktion_pwa",
+    "start_url": "/",
     "scope": "/",
     "display": "minimal-ui",
     "display_override": ["window-controls-overlay"],
