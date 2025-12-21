@@ -42,7 +42,7 @@
             "name": "Организации",
             "short_name": "Организации",
             "description": "Список организаций",
-            "url": "/",
+            "url": "/test_intruktion_pwa/",
             "icons": [
                 {
                     "src": "icons/Icon-192.png",
